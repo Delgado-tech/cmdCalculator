@@ -1,7 +1,7 @@
 ## Calculadora
 > Código autoral, sem base de nenhum lugar <br>
 
-Uma simples calculadora com uma "interface" no cmd, realizei esse projeto para aplicar minhas habilidades que adiquiri a partir de um curso de C# da Udemy, e também para passar o tempo.
+Uma simples calculadora com uma "interface" no cmd, realizei esse projeto para aplicar minhas habilidades que adiquiri a partir de um curso de C# da Udemy (Fev, 2021), e também para passar o tempo.
 
 ##
 ### ♢ Preview

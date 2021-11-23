@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\Source\Repos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\T-Gamer\Source\Repos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\T-Gamer\Source\Repos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\T-Gamer\Source\Repos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\T-Gamer\Source\Repos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\T-Gamer\Source\Repos\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\T-Gamer\Source\Repos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Source\Repos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\T-Gamer\Source\Repos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Source\Repos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\T-Gamer\Source\Repos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\T-Gamer\Source\Repos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\T-Gamer\Source\Repos\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.AssemblyReference.cache
